@@ -1,5 +1,5 @@
 # Faceswapper-AI-reivew:Is it worth the money?
-**Main features of Faceswapper AI：<br>**
+**Main features of [Faceswapper AI](https://faceswapper.ai/)：<br>**
 
 （1）Photo Face Swap<br>
 （2）Batch Photo Face Swap<br>
@@ -32,7 +32,7 @@ You only need to upload 2 photos but remember to upload the target photo first (
 
 ![image](https://github.com/BiggerGeorge/Faceswapper-reivew/assets/171020335/b3a338bd-ea1d-4d36-89f1-0aac1356a31b)
 
-Here are the face-swapped effects compared to DeepSwap:
+Here are the face-swapped effects compared to [DeepSwap](https://www.deepswap.ai/):
 
 Anime:
 
