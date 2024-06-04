@@ -1,4 +1,4 @@
-# Faceswapper-AI-reivew:Is it worth the money?
+# Faceswapper-AI-reivew
 **Main features of [Faceswapper AI](https://faceswapper.ai/)：<br>**
 
 （1）Photo Face Swap<br>
