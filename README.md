@@ -1,5 +1,5 @@
 # Faceswapper-AI-reivew: Should you use it?
-**Main features of [Faceswapper AI](https://faceswapper.ai/)：<br>**
+**Main features of Faceswapper AI：<br>**
 
 （1）Photo Face Swap<br>
 （2）Batch Photo Face Swap<br>
